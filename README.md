@@ -3,7 +3,7 @@
 ## Tech Stack
 - Backend: Spring Boot
 - Frontend: React
-- Database: To be decided
+- Database: MySQL
 
 ## Modules
 - Facilities Management
